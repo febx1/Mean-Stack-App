@@ -1,0 +1,15 @@
+% Mean App
+
+  - Mean  App
+  - main.ts
+
+
+
+  x :host
+    - used it for menting the host component
+
+
+    - ngFor is a directive
+    - @Component is a decorator
+
+
