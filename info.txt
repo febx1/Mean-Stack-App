@@ -11,5 +11,8 @@
 
     - ngFor is a directive
     - @Component is a decorator
+    - template driven form
+
+  x 
 
 
